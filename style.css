@@ -1,0 +1,31 @@
+body 
+{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+input {
+    width: 100px;
+    padding: 5px;
+}
+input, button{
+    border: solid 2px #000;
+    background-color: #fff;
+    font-size: 18px;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-weight: bold;
+}
+
+hr{
+    border: solid 2px #000;
+    width:50%;
+}
+
+table{
+    margin-left:auto; 
+    margin-right:auto;
+}
+
+table, td{
+    width: 50%;
+    border: solid 2px #000;
+}
